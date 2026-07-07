@@ -1,0 +1,15 @@
+# Python Learning Journey 🐍
+
+This repository contains all the projects and exercises I build while learning Python.
+
+## Goals
+- Learn Python fundamentals
+- Build projects daily
+- Practice problem solving
+- Track my progress publicly
+
+## Projects
+
+| Day | Project |
+|------|----------|
+| 1 | Band Name Generator |
