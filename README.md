@@ -13,3 +13,4 @@ This repository contains all the projects and exercises I build while learning P
 | Day | Project |
 |------|----------|
 | 1 | Band Name Generator |
+| 2 | Tip Calculator |
