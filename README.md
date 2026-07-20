@@ -16,4 +16,5 @@ This repository contains all the projects and exercises I build while learning P
 | 2 | Tip Calculator |
 | 3 | Treasure Island |
 | 4 | Rock Paper Scissors |
+| 5 | Password Generator |
 
