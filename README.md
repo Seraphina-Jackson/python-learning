@@ -15,3 +15,5 @@ This repository contains all the projects and exercises I build while learning P
 | 1 | Band Name Generator |
 | 2 | Tip Calculator |
 | 3 | Treasure Island |
+| 4 | Rock Paper Scissors |
+
