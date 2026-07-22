@@ -18,4 +18,5 @@ This repository contains all the projects and exercises I build while learning P
 | 4 | Rock Paper Scissors |
 | 5 | Password Generator |
 | 6 | Escaping the maze |
+| 7 | Hangman |
 
